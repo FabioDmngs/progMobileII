@@ -1,4 +1,5 @@
-🛍️ Aplicativo de Catálogo de Produtos Este é um aplicativo móvel criado com React Native e Expo, projetado para exibir uma lista de produtos obtidos da API DummyJSON. Ele oferece uma interface moderna que permite visualizar os produtos e acessar uma tela de detalhes com informações adicionais.
+🛍️ Aplicativo de Catálogo de Produtos.
+Este é um aplicativo móvel criado com React Native e Expo, projetado para exibir uma lista de produtos obtidos da API DummyJSON. Ele oferece uma interface moderna que permite visualizar os produtos e acessar uma tela de detalhes com informações adicionais.
 
 📱 Principais Funcionalidades
 
